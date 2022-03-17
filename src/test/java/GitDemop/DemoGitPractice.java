@@ -9,5 +9,8 @@ public class DemoGitPractice {
 	{
 	System.out.println(" User1 : fist comit");
 	System.out.println("user2: first commit");
+	
+	System.out.println(" User1 : fist comit");
+	System.out.println("user2: first commit");
 }
 }
